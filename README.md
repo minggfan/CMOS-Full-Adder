@@ -1,6 +1,5 @@
-# CMOS-Full-Adder
+# Static Complementary CMOS Full Adder
 
-Complementary CMOS Full Adder
 For the static complementary CMOS design style, the mirror adder is used in the design. It has low power consumption due to its low static current.
 The mirror adder has completely symmetrical PMOS and NMOS chains. This ensures similar rise and fall time by adjusting the W/L ratio for PMOS and NMOS
 
